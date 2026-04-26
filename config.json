@@ -4,53 +4,53 @@
   "teams": [
     {
       "btn_text": "Join Canva Pro Team 1",
-      "link": "https://www.canva.com/brand/join?token=aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 2",
-      "link": "https://www.canva.com/brand/join?token=ZyXwVuTsRqPoNmLkJiHgFeDcBa9876543210",
-      "ads_required": 7
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 3",
-      "link": "https://www.canva.com/brand/join?token=1a2B3c4D5e6F7g8H9i0JkLmNoPqRsTuVw",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 4",
-      "link": "https://www.canva.com/brand/join?token=9z8Y7x6W5v4U3t2S1r0QpOnMlKjIhGfEdCbA",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 5",
-      "link": "https://www.canva.com/brand/join?token=AbCdEfGhIjKlMnOpQrStUvWxYz0123456789",
-      "ads_required": 7
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 6",
-      "link": "https://www.canva.com/brand/join?token=9876543210ZyXwVuTsRqPoNmLkJiHgFeDcBa",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 7",
-      "link": "https://www.canva.com/brand/join?token=PqRsTuVwXyZ1234567890aBcDeFgHiJkLmNo",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 8",
-      "link": "https://www.canva.com/brand/join?token=OnMlKjIhGfEdCbA9876543210ZyXwVuTsRqP",
-      "ads_required": 7
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 9",
-      "link": "https://www.canva.com/brand/join?token=FeDcBa9876543210aBcDeFgHiJkLmNoPqRsTu",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     },
     {
       "btn_text": "Join Canva Pro Team 10",
-      "link": "https://www.canva.com/brand/join?token=VwXyZ1234567890AbCdEfGhIjKlMnOpQrStU",
-      "ads_required": 6
+      "link": "https://www.canva.com/brand/join?token=dsg_R9kJEpXtj0K-O04dKg&referrer=team-invite",
+      "ads_required": 10
     }
   ]
 }
